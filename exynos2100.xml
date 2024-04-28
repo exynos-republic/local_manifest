@@ -3,7 +3,7 @@
 
   <remote name="sexynos2100"
           fetch="https://github.com/sexynos2100"
-          revision="Unison"
+          revision="fourteen"
           />
 
   <!-- Device Tree -->
