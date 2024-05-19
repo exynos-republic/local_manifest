@@ -1,5 +1,5 @@
 # local_manifest
 
-Build Android for Exynos2100 family
+Build Android for Exynos devices
 
-git clone https://github.com/sexynos2100/local_manifests -b Unison .repo/local_manifests
+git clone https://github.com/exynos-republic/local_manifests -b fourteen-exynos9830 .repo/local_manifests
