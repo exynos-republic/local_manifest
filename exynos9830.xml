@@ -7,9 +7,9 @@
           />
 
   <!-- Device Tree -->
-  <project name="android_device_samsung_universal9830-common" path="device/samsung/universal9830-common" revision="lineage-21.0" remote="exynos-republic"/>
-  <project name="device_samsung_x1s" path="device/samsung/x1s" revision="lineage-21.0" remote="exynos-republic"/>
-  <project name="android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="14" remote="exynos-republic"/>
+  <project name="android_device_samsung_universal9830-common" path="device/samsung/universal9830-common" remote="exynos-republic"/>
+  <project name="device_samsung_x1s" path="device/samsung/x1s" remote="exynos-republic"/>
+  <project name="android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="exynos-republic"/>
 
   <!-- Kernel -->
   <project name="android_kernel_samsung_universal9830" path="kernel/samsung/universal9830" revision="stable-120hz" remote="exynos-republic"/>
@@ -19,7 +19,7 @@
   <project name="vendor_samsung_universal9830-common" path="vendor/samsung/universal9830-common" remote="exynos-republic"/>
 
   <!-- Hardware -->
-  <project name="android_hardware_samsung" path="hardware/samsung"  remote="sexynos2100"/>
+  <project name="android_hardware_samsung" path="hardware/samsung"  remote="exynos-republic"/>
   <project name="android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro/graphics"  remote="exynos-republic"/>
   <project name="android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos"  remote="exynos-republic"/>
   <project name="android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config"  remote="exynos-republic"/>
@@ -28,5 +28,5 @@
   <project name="android_hardware_samsung_slsi-linaro_interfaces" path="hardware/samsung_slsi-linaro/interfaces"  remote="exynos-republic"/>
 
   <!-- Misc Interfaces -->
-  <project name="Exynos2100-common/android_hardware_samsung-ext_interfaces" path="hardware/samsung-ext/interfaces"  remote="github"/>
+  <project name="android_hardware_samsung-ext_interfaces" path="hardware/samsung-ext/interfaces"  remote="exynos-republic"/>
 </manifest>
