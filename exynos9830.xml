@@ -7,7 +7,7 @@
           />
 
   <!-- Device Tree -->
-  <project name="android_device_samsung_universal9830-common" path="device/samsung/universal9830-common" remote="exynos-republic"/>
+  <project name="device_samsung_universal9830-common" path="device/samsung/universal9830-common" remote="exynos-republic"/>
   <project name="device_samsung_x1s" path="device/samsung/x1s" remote="exynos-republic"/>
   <project name="android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="exynos-republic"/>
 
