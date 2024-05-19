@@ -12,7 +12,7 @@
   <project name="android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="exynos-republic"/>
 
   <!-- Kernel -->
-  <project name="android_kernel_samsung_universal9830" path="kernel/samsung/universal9830" revision="stable-120hz" remote="exynos-republic"/>
+  <!-- <project name="android_kernel_samsung_universal9830" path="kernel/samsung/universal9830" revision="stable-120hz" remote="exynos-republic"/> -->
 
   <!-- Vendor -->
   <project name="vendor_samsung_x1s" path="vendor/samsung/x1s" remote="exynos-republic"/>
