@@ -19,7 +19,7 @@
   <project name="proprietary_vendor_samsung_universal2100-common" path="vendor/samsung/universal2100-common" revision="15" remote="exynos-republic"/>
 
   <!-- Hardware -->
-  <project name="android_hardware_samsung" path="hardware/samsung"  remote="sexynos2100"/>
+  <project name="android_hardware_samsung" path="hardware/samsung"  remote="exynos-republic"/>
   <project name="android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro/graphics"  remote="exynos-republic"/>
   <project name="android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos"  remote="exynos-republic"/>
   <project name="android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config"  remote="exynos-republic"/>
