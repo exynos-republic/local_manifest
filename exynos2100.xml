@@ -9,6 +9,7 @@
   <!-- Device Tree -->
   <project name="android_device_samsung_universal2100-common" path="device/samsung/universal2100-common" revision="lineage-22.1-WIP" remote="exynos-republic"/>
   <project name="android_device_samsung_o1s" path="device/samsung/o1s" revision="lineage-22.1-WIP" remote="exynos-republic"/>
+  <project name="android_device_samsung_p3s" path="device/samsung/p3s" remote="exynos-republic"/>
   <project name="android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="lineage-22.1-WIP" remote="exynos-republic"/>
 
   <!-- Kernel -->
@@ -16,6 +17,7 @@
 
   <!-- Vendor -->
   <project name="android_vendor_samsung_o1s" path="vendor/samsung/o1s" remote="exynos-republic"/>
+  <project name="android_vendor_samsung_o1s" path="vendor/samsung/p3s" remote="exynos-republic"/>
   <project name="android_vendor_samsung_universal2100-common" path="vendor/samsung/universal2100-common" remote="exynos-republic"/>
 
   <!-- Hardware -->
