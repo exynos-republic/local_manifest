@@ -17,7 +17,7 @@
 
   <!-- Vendor -->
   <project name="android_vendor_samsung_o1s" path="vendor/samsung/o1s" remote="exynos-republic"/>
-  <project name="android_vendor_samsung_o1s" path="vendor/samsung/p3s" remote="exynos-republic"/>
+  <project name="android_vendor_samsung_p3s" path="vendor/samsung/p3s" remote="exynos-republic"/>
   <project name="android_vendor_samsung_universal2100-common" path="vendor/samsung/universal2100-common" remote="exynos-republic"/>
 
   <!-- Hardware -->
