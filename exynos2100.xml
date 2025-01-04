@@ -27,5 +27,6 @@
   <project name="android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config"  remote="exynos-republic"/>
   <project name="android_hardware_samsung_slsi-linaro_exynos5" path="hardware/samsung_slsi-linaro/exynos5"  remote="exynos-republic"/>
   <project name="android_hardware_samsung_slsi-linaro_openmax" path="hardware/samsung_slsi-linaro/openmax"  remote="exynos-republic"/>
+  <project name="android_hardware_samsung_slsi-linaro_codec2" path="hardware/samsung_slsi-linaro/codec2"  remote="exynos-republic"/>
   <project name="android_hardware_samsung_slsi-linaro_interfaces" path="hardware/samsung_slsi-linaro/interfaces"  remote="exynos-republic"/>
 </manifest>
