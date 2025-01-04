@@ -2,4 +2,4 @@
 
 Build Android for Exynos2100 family
 
-git clone https://github.com/sexynos2100/local_manifests -b fifteen-exynos2100 .repo/local_manifests
+git clone https://github.com/exynos-republic/local_manifest -b fifteen-exynos2100 .repo/local_manifests
